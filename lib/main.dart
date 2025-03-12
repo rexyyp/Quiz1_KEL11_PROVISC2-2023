@@ -53,7 +53,7 @@ class QuizScreen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                "Quiz 1",
+                "Quiz 1 Kelompok 11",
                 style: TextStyle(
                   fontSize: 32,
                   fontWeight: FontWeight.bold,
